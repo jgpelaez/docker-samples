@@ -1,0 +1,4 @@
+wso2esb:
+  image: isim/wso2esb
+  ports:
+   - "9443:9443"
